@@ -1,0 +1,7 @@
+/*
+These are some suggested CSS rules to go with toggleActive.js
+*/
+
+.toggle .inactive{
+    display: none !important;
+}   

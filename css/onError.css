@@ -1,0 +1,25 @@
+/*
+These are some suggested CSS rules to go with onError.js
+*/
+
+.error-shade{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #351d1d4d;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.error-box{
+    /* width: 100%; */
+    background-color: white;
+    margin: 1em;
+    border-radius: 1em;
+}
+.error-box b{
+    color: #a90000;
+}
